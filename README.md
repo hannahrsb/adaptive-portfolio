@@ -1,2 +1,12 @@
-# adaptive-portfolio
-A portfolio that adapts its layout and content based on visitor persona
+# Adaptive Portfolio
+
+This project explores how a portfolio can adapt its layout,
+visual style, and project emphasis based on the visitor's persona.
+
+## Personas
+- Creative
+- Analytical
+- Curious
+
+## Status
+🚧 In progress — design-first approach
