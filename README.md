@@ -7,13 +7,13 @@ its layout and content based on visitor persona.
 
 **Creative View**  
 Visual-first layout with large imagery and expressive spacing.  
-![Creative](design/creative-view.png)
+![Creative](design/creative.png)
 
 **Analytical View**  
 Structured grid optimized for clarity and comparison.  
-![Analytical](design/analytical-view.png)
+![Analytical](design/analytical.png)
 
 **Curious View**  
 Story-driven layout that encourages deeper exploration.  
-![Curious](design/curious-view.png)
+![Curious](design/curious.png)
 
